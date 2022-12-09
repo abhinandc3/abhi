@@ -1,0 +1,15 @@
+/Users/abhinand.c/Projects/helloworld/helloworld/bin/Debug/net7.0/helloworld
+/Users/abhinand.c/Projects/helloworld/helloworld/bin/Debug/net7.0/helloworld.deps.json
+/Users/abhinand.c/Projects/helloworld/helloworld/bin/Debug/net7.0/helloworld.runtimeconfig.json
+/Users/abhinand.c/Projects/helloworld/helloworld/bin/Debug/net7.0/helloworld.dll
+/Users/abhinand.c/Projects/helloworld/helloworld/bin/Debug/net7.0/helloworld.pdb
+/Users/abhinand.c/Projects/helloworld/helloworld/obj/Debug/net7.0/helloworld.csproj.AssemblyReference.cache
+/Users/abhinand.c/Projects/helloworld/helloworld/obj/Debug/net7.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abhinand.c/Projects/helloworld/helloworld/obj/Debug/net7.0/helloworld.AssemblyInfoInputs.cache
+/Users/abhinand.c/Projects/helloworld/helloworld/obj/Debug/net7.0/helloworld.AssemblyInfo.cs
+/Users/abhinand.c/Projects/helloworld/helloworld/obj/Debug/net7.0/helloworld.csproj.CoreCompileInputs.cache
+/Users/abhinand.c/Projects/helloworld/helloworld/obj/Debug/net7.0/helloworld.dll
+/Users/abhinand.c/Projects/helloworld/helloworld/obj/Debug/net7.0/refint/helloworld.dll
+/Users/abhinand.c/Projects/helloworld/helloworld/obj/Debug/net7.0/helloworld.pdb
+/Users/abhinand.c/Projects/helloworld/helloworld/obj/Debug/net7.0/helloworld.genruntimeconfig.cache
+/Users/abhinand.c/Projects/helloworld/helloworld/obj/Debug/net7.0/ref/helloworld.dll
